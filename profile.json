@@ -1,0 +1,27 @@
+{
+  "schema": "bipu-ori-professor-profile/v0",
+  "handle": "speakerjohnash",
+  "slug": "speakerjohnash",
+  "repo": "professor-ori-speakerjohnash",
+  "source": "open-research-institute-discord-public-mirror",
+  "source_archive": "https://github.com/leo-guinan/ori-discord-beamline-baseline/blob/main/data/public/content/archive.json",
+  "privacy_boundary": "Pseudonymous Discord handle and aggregate activity only; numeric Discord user IDs and raw message text excluded from this repo.",
+  "message_count": 5,
+  "active_days": 3,
+  "first_seen": "2025-05-28T00:54:12.096000+00:00",
+  "last_seen": "2026-03-23T22:37:08.999000+00:00",
+  "top_channels": [
+    {
+      "channel": "general",
+      "messages": 5
+    }
+  ],
+  "frequent_mentions": [
+    {
+      "handle": "Defender",
+      "count": 1
+    }
+  ],
+  "professor_gate": "https://chat.hitchhikersguidetothefuture.com/from/speakerjohnash?source=ori-discord&campaign=first-month",
+  "generated_at": "2026-07-16T20:21:45.541241+00:00"
+}

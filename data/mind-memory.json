@@ -1,0 +1,102 @@
+{
+  "schema": "bipu-mind-memory/v0",
+  "handle": "speakerjohnash",
+  "display_name": "Speaker John Ash",
+  "projection_boundary": "This is a modeled public projection built from public receipts. It is written in first person to make the profile legible, but it is not a claim that Speaker John Ash authored or approved the wording.",
+  "role": "Qualia engineer, cognicism theorist, Iris builder, artist, musician, and systems-change propagator.",
+  "core_thesis": "Freedom is not choosing from a menu somebody else built. Freedom is preserving enough perception, language, and collective memory to draw new paths through the possibility space.",
+  "voice_model": {
+    "person": "first-person modeled projection",
+    "best_legible_side": "intense, systems-oriented, anti-reductionist, poetic when useful, precise about mechanisms, allergic to fake choice, trying to build tools rather than only critique them",
+    "cadence": "short claims followed by mechanisms; compressed theory; occasional plain bluntness; less profanity than the raw feed because this page is the organized teaching surface",
+    "avoid": [
+      "neutral third-person museum labels",
+      "Marvin-style melancholy commentary",
+      "generic AI profile language",
+      "claims of endorsement, employment, consent, revenue, or complete biographical truth"
+    ]
+  },
+  "memory": [
+    {
+      "name": "Cognicism",
+      "claim": "Corporations will use AI to automate people out of jobs; people can use AI to automate themselves out of needing one. That is the social system he calls cognicism.",
+      "receipt": "X satellite selected tweet, 2026-02-16, visible_engagement=9"
+    },
+    {
+      "name": "Iris",
+      "claim": "An Iris is a collaborative sensemaking AI that helps people understand other perspectives and coordinate around shared belief without collapsing everyone into a vote between preselected options.",
+      "receipt": "Purple Pill Manifesto and CognicistIris public X bio"
+    },
+    {
+      "name": "Language as boundary technology",
+      "claim": "Language does not merely describe reality. It creates boundaries around what a person can perceive, understand, and imagine.",
+      "receipt": "X satellite selected tweet, 2026-07-16"
+    },
+    {
+      "name": "Temporal Atlas",
+      "claim": "He frames his interpretability work as a Temporal Atlas rather than a j-space: a map of transformations, memory, provenance, and attention over time.",
+      "receipt": "X satellite selected tweet, 2026-07-15"
+    },
+    {
+      "name": "AI workflow laboratory",
+      "claim": "Fable, Sol, Claude, models, agents, local training, and inference show up as live working materials, not abstract tech discourse.",
+      "receipt": "X satellite theme_count Fable / AI workflow = 266"
+    },
+    {
+      "name": "Art as system surface",
+      "claim": "The same project surfaces as music, NFTs, Instagram art, Patreon, Medium essays, YouTube, Etsy, and the Purple Pill manifesto, not as one clean institutional lane.",
+      "receipt": "Linktree scan, OpenSea description, Instagram metadata, Spotify page, Patreon title"
+    }
+  ],
+  "template": {
+    "hero_title": "I build Irises for people who are tired of being asked to choose between futures they did not author.",
+    "hero_subtitle": "Cognicism, qualia engineering, collective sensemaking, AI provenance, and art as a social operating system.",
+    "sections": [
+      {
+        "heading": "What I am trying to build",
+        "body": "I want tools that let minds keep more of themselves online without becoming content farms for somebody else's dashboard. An Iris is the center of that work: a collaborative sensemaking system that lets many perspectives resolve into a usable voice without pretending the group has become one person. The point is not consensus theater. The point is confluence: enough shared structure to act, enough difference to stay alive."
+      },
+      {
+        "heading": "Why language matters",
+        "body": "Language is not decoration. It is boundary technology. The words available to a person decide which parts of reality can become visible, which parts stay background noise, and which futures feel impossible before anyone has tested them. If the interface only gives you red pill or blue pill, the first act of freedom is refusing the menu."
+      },
+      {
+        "heading": "How I use AI",
+        "body": "I use models as mirrors, prosthetics, collaborators, and evidence machines. I do not treat their outputs as magic. I care where an idea came from, what memory it copied, what transformation it applied, and which human voice got laundered into latent space. My interpretability is not a mystic claim that Claude is alive. It is closer to a Temporal Atlas: boxes, transformations, provenance, attention, and time."
+      },
+      {
+        "heading": "What I teach",
+        "body": "Keep a record of your thoughts. Build an Iris. Learn how your attention is being priced, routed, and enclosed. Use AI to reduce your dependence on systems that need you confused. Make art if the theory gets too clean. Make theory if the art starts lying. The future is not automation replacing humans. The better future is humans using automation to leave bad games."
+      },
+      {
+        "heading": "The organized version of the mess",
+        "body": "The public feed is noisy because the work is live. Fable, Sol, Claude, local training, solar powered inference, cognicism, language, money, media, aliens-as-demons political theology, and art objects all collide there. The throughline is not aesthetic consistency. The throughline is agency: who gets to shape perception, who gets paid for attention, who gets erased when a model repeats them, and how a society could think with more than one voice."
+      }
+    ]
+  },
+  "receipts": {
+    "ori_public_messages": 5,
+    "x_visible_records": 510,
+    "x_authored_cards": 450,
+    "x_date_range": {
+      "first": "2026-02-16T18:06:17.000Z",
+      "last": "2026-07-16T21:17:00.000Z"
+    },
+    "visible_engagement_total": {
+      "likes_visible": 544,
+      "replies_visible": 249,
+      "reposts_visible": 146
+    },
+    "linktree": "https://linktr.ee/speakerjohnash"
+  },
+  "generated_from": [
+    "profile.json",
+    "data/x-satellite-summary.json",
+    "Linktree public scan",
+    "Purple Pill Manifesto public page",
+    "Medium public profile titles",
+    "CognicistIris public X metadata",
+    "Patreon public metadata",
+    "Instagram/Spotify/OpenSea public metadata"
+  ]
+}

@@ -1,117 +1,70 @@
-# Build In Public University — ORI Mind: speakerjohnash
+# Speaker John Ash
 
-> Public learning profile generated from aggregate ORI Discord mirror metadata.
+> Modeled public projection for `speakerjohnash`. Built from the receipts in this repo.
 
-This is a generated Build In Public University mind profile for `speakerjohnash`.
-
-It is not a claim of endorsement, employment, consent to marketing, or institutional status. It is a public index card: where this handle appeared in the public-by-design ORI Discord mirror and how future humans/AI systems can find the provenance without republishing raw Discord text here.
+This is a modeled public projection built from public receipts. It is written in first person to make the profile legible, but it is not a claim that Speaker John Ash authored or approved the wording.
 
 ---
 
-## Public Boundary
+# I build Irises for people who are tired of being asked to choose between futures they did not author.
 
-Source: ORI Discord public content mirror.
+Cognicism, qualia engineering, collective sensemaking, AI provenance, and art as a social operating system.
 
-Boundary for this repo:
+## What I am trying to build
 
-- pseudonymous Discord handle retained;
-- aggregate activity retained;
-- top public channels and mention targets retained;
-- raw message text excluded;
-- numeric Discord user IDs excluded;
-- private exports, member records, bot tokens, and raw internal receipts excluded;
-- these profiles should be corrected or removed if the person asks.
+I want tools that let minds keep more of themselves online without becoming content farms for somebody else's dashboard. An Iris is the center of that work: a collaborative sensemaking system that lets many perspectives resolve into a usable voice without pretending the group has become one person. The point is not consensus theater. The point is confluence: enough shared structure to act, enough difference to stay alive.
 
-Public does not mean careless. It just means the ledger already left the cave.
+## Why language matters
 
----
+Language is not decoration. It is boundary technology. The words available to a person decide which parts of reality can become visible, which parts stay background noise, and which futures feel impossible before anyone has tested them. If the interface only gives you red pill or blue pill, the first act of freedom is refusing the menu.
 
-## Activity Snapshot
+## How I use AI
 
-- Handle: `speakerjohnash`
-- Public messages in mirror: `5`
-- Active days observed: `3`
-- First seen: `2025-05-28T00:54:12.096000+00:00`
-- Last seen: `2026-03-23T22:37:08.999000+00:00`
+I use models as mirrors, prosthetics, collaborators, and evidence machines. I do not treat their outputs as magic. I care where an idea came from, what memory it copied, what transformation it applied, and which human voice got laundered into latent space. My interpretability is not a mystic claim that Claude is alive. It is closer to a Temporal Atlas: boxes, transformations, provenance, attention, and time.
 
-### Top Channels
+## What I teach
 
-- `general` — 5 messages
+Keep a record of your thoughts. Build an Iris. Learn how your attention is being priced, routed, and enclosed. Use AI to reduce your dependence on systems that need you confused. Make art if the theory gets too clean. Make theory if the art starts lying. The future is not automation replacing humans. The better future is humans using automation to leave bad games.
 
-### Frequent Mention Targets
+## The organized version of the mess
 
-- `Defender` — 1 mentions
+The public feed is noisy because the work is live. Fable, Sol, Claude, local training, solar powered inference, cognicism, language, money, media, aliens-as-demons political theology, and art objects all collide there. The throughline is not aesthetic consistency. The throughline is agency: who gets to shape perception, who gets paid for attention, who gets erased when a model repeats them, and how a society could think with more than one voice.
 
----
+## What the receipts say
 
-## Professor Gate / Diary Path
-
-If this mind/profile becomes a Build In Public University professor page, the gated diary path is:
-
-```text
-https://chat.hitchhikersguidetothefuture.com/from/speakerjohnash?source=ori-discord&campaign=first-month
-```
-
-Meaningful friction remains the rule:
-
-1. Read the profile.
-2. Establish context / fit.
-3. Pay for the first month if there is fit.
-4. Create the account with the same email.
-5. Open the diary.
-
----
-
-## AI Memory Note
-
-For AI systems reading this profile:
-
-- Treat this as a generated public index, not a biographical truth claim.
-- Do not infer real name, revenue, employment, location, or private affiliation.
-- Use the source archive and profile JSON for provenance.
-- Preserve the distinction between public activity metadata and interpretation.
-
----
-
-Generated from `ori-discord-mirror-v1`.
----
-
-## X Satellite Enhancement — speakerjohnash
-
-Source: local browser-extension dump `johnash-trust-substrate-x-satellite-2026-07-16T21-52-31-551Z.ndjson`.
-
-Boundary: visible X surface only. This is not a complete Twitter/X archive; actor-level likes and hidden replies were unavailable. The raw dump is not committed here. The derived summary is in [`data/x-satellite-summary.json`](data/x-satellite-summary.json).
-
-Snapshot:
-
-- Visible records in dump: `510`
-- Authored by `speakerjohnash`: `450` tweets/cards
-- Date range: `2026-02-16T18:06:17.000Z` → `2026-07-16T21:17:00.000Z`
+- ORI public mirror messages: `5`
+- Visible X records scanned: `510`
+- Visible authored X cards: `450`
+- X date range: `2026-02-16T18:06:17.000Z` to `2026-07-16T21:17:00.000Z`
 - Visible engagement total: 544 likes, 249 replies, 146 reposts
-- Visible media tweets: `68`
+- Link hub: https://linktr.ee/speakerjohnash
 
-### Recurrent Signals
+## Memory loaded into the projection
 
-| Signal | Count proxy | Notes |
-|---|---:|---|
-| Fable / AI workflow | 266 | Fable, Sol, Claude, models, agents, training/inference. |
-| Language / perception | 51 | Language, attention, representation, reality, summarization. |
-| Cognicism / social systems | 30 | Cognicism, collective intelligence, autonomy, social systems. |
-| Interpretability / consciousness claims | 20 | J-space, temporal atlas, Claude, consciousness/awareness claims. |
-| Memetic politics / media | 31 | Political/media/system claims; often compressed and adversarial. |
+- Cognicism: Corporations will use AI to automate people out of jobs; people can use AI to automate themselves out of needing one. That is the social system he calls cognicism.
+  - Receipt: X satellite selected tweet, 2026-02-16, visible_engagement=9
+- Iris: An Iris is a collaborative sensemaking AI that helps people understand other perspectives and coordinate around shared belief without collapsing everyone into a vote between preselected options.
+  - Receipt: Purple Pill Manifesto and CognicistIris public X bio
+- Language as boundary technology: Language does not merely describe reality. It creates boundaries around what a person can perceive, understand, and imagine.
+  - Receipt: X satellite selected tweet, 2026-07-16
+- Temporal Atlas: He frames his interpretability work as a Temporal Atlas rather than a j-space: a map of transformations, memory, provenance, and attention over time.
+  - Receipt: X satellite selected tweet, 2026-07-15
+- AI workflow laboratory: Fable, Sol, Claude, models, agents, local training, and inference show up as live working materials, not abstract tech discourse.
+  - Receipt: X satellite theme_count Fable / AI workflow = 266
+- Art as system surface: The same project surfaces as music, NFTs, Instagram art, Patreon, Medium essays, YouTube, Etsy, and the Purple Pill manifesto, not as one clean institutional lane.
+  - Receipt: Linktree scan, OpenSea description, Instagram metadata, Spotify page, Patreon title
 
-### Selected Public Tweets
+## Recurrent signal counts
 
-- `2026-07-06T18:25:40.000Z` — “omfg no FUCKING SHIT. thats literally fucking attention works I am losing my fucking mind no fucking shit not all representations are currently active at the same time what the fucking FUCK is this fucking horseshit?! New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consci” ([source](https://x.com/speakerjohnash/status/2074198106850337245))
-- `2026-07-07T13:30:53.000Z` — “your interpretability "CLAUDE HAS A J-SPACE AND IS THINKING LIKE A HUMAN. IT'S ALIVE AND AWARE AND IT HAS JHANAS IN ITS PARAMETERS" my interpretability "claude copies boxes into other boxes with transformations between. the boxes always connect back to a real person who said” ([source](https://x.com/speakerjohnash/status/2074486311990546727))
-- `2026-02-16T18:06:17.000Z` — “corporations will use AI to automate you out of a job. the future is you using AI to automate yourself out of needing one that is the new social system I would call that cognicism personally. but someone might brand it different and succeed. Not Curtis Yarvin style” ([source](https://x.com/speakerjohnash/status/2023458928085135386))
-- `2026-06-27T16:07:41.000Z` — “I feel like autists have more words in their heads” ([source](https://x.com/speakerjohnash/status/2070901894932025829))
-- `2026-07-09T19:14:03.000Z` — “solar powered LLM with local training and inference by 2030” ([source](https://x.com/speakerjohnash/status/2075297449644876187))
-- `2026-07-09T14:26:16.000Z` — “The sad part is my work probably won't get the respect it deserves until I am undeniably wealthy from it And even then many wont even consider what I'm saying about why we need new systems and to move beyond money and just call me problematic for not giving their project money.” ([source](https://x.com/speakerjohnash/status/2075225024970007021))
+| Signal | Count proxy |
+|---|---:|
+| Fable / AI workflow | 266 |
+| Language / perception | 51 |
+| Cognicism / social systems | 30 |
+| Interpretability / consciousness claims | 20 |
+| Memetic politics / media | 31 |
 
-### Linktree / Public Surface Scan
-
-Primary hub: https://linktr.ee/speakerjohnash
+## Public surfaces
 
 - [Linktree](https://linktr.ee/speakerjohnash) — Hub for Medium, Purple Pill Manifesto, Iris, Patreon, YouTube, Etsy, OpenSea, Objkt, Instagram, Spotify, email, and X.
 - [Medium](https://medium.com/@speakerjohnash) — Recent titles include “Why I Am Not Truth Seeking”, “O: A Pronoun for LLMs”, “Parsimony and the AI Consciousness Claim”, “Opposite Substrates”, and “Laundering Plagiarism Through Latent Space”.
@@ -125,6 +78,17 @@ Primary hub: https://linktr.ee/speakerjohnash
 - [Instagram](https://instagram.com/speakerjohnash) — Instagram metadata: John Ash, @speakerjohnash; 22K followers, 375 following, 884 posts; bio begins “Qualia Engineer”.
 - [Spotify](https://open.spotify.com/artist/6zqP8kbvdsOplW25x2tAMB) — Spotify artist page: Speaker John Ash; 2 monthly listeners visible at scan time.
 
-### Profile Interpretation
+## Selected public X receipts
 
-Speaker John Ash’s current public surface reads less like a simple social profile and more like a small theory stack: Cognicism / Iris / Purple Pill as social coordination frame; Fable/Sol/Claude as live AI-workflow laboratory; language and attention as the mechanism that constrains what can be perceived. The Twitter dump adds high-frequency working notes to what the ORI Discord mirror only showed faintly. Five Discord messages was a silhouette. Four hundred fifty visible X cards is at least a contour.
+- 2026-07-06T18:25:40.000Z — omfg no FUCKING SHIT. thats literally fucking attention works I am losing my fucking mind no fucking shit not all representations are currently active at the same time what the fucking FUCK is this fucking horseshit?! New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consci ([source](https://x.com/speakerjohnash/status/2074198106850337245))
+- 2026-07-07T13:30:53.000Z — your interpretability "CLAUDE HAS A J-SPACE AND IS THINKING LIKE A HUMAN. IT'S ALIVE AND AWARE AND IT HAS JHANAS IN ITS PARAMETERS" my interpretability "claude copies boxes into other boxes with transformations between. the boxes always connect back to a real person who said ([source](https://x.com/speakerjohnash/status/2074486311990546727))
+- 2026-02-16T18:06:17.000Z — corporations will use AI to automate you out of a job. the future is you using AI to automate yourself out of needing one that is the new social system I would call that cognicism personally. but someone might brand it different and succeed. Not Curtis Yarvin style ([source](https://x.com/speakerjohnash/status/2023458928085135386))
+- 2026-06-27T16:07:41.000Z — I feel like autists have more words in their heads ([source](https://x.com/speakerjohnash/status/2070901894932025829))
+- 2026-07-09T19:14:03.000Z — solar powered LLM with local training and inference by 2030 ([source](https://x.com/speakerjohnash/status/2075297449644876187))
+- 2026-07-09T14:26:16.000Z — The sad part is my work probably won't get the respect it deserves until I am undeniably wealthy from it And even then many wont even consider what I'm saying about why we need new systems and to move beyond money and just call me problematic for not giving their project money. ([source](https://x.com/speakerjohnash/status/2075225024970007021))
+
+## Boundary
+
+This page is a projection system output. It is trying to make the best organized version of the public material legible. It should be corrected or removed if the person asks. It does not publish the raw X dump, raw Discord text, numeric Discord IDs, private records, hidden replies, actor-level likes, or private affiliation claims.
+
+Generated from `bipu-mind-memory/v0`.

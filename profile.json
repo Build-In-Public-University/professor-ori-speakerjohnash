@@ -198,5 +198,25 @@
       "url": "https://open.spotify.com/artist/6zqP8kbvdsOplW25x2tAMB",
       "evidence": "Spotify artist page: Speaker John Ash; 2 monthly listeners visible at scan time."
     }
-  ]
+  ],
+  "mind_projection": {
+    "schema": "bipu-mind-memory/v0",
+    "display_name": "Speaker John Ash",
+    "role": "Qualia engineer, cognicism theorist, Iris builder, artist, musician, and systems-change propagator.",
+    "core_thesis": "Freedom is not choosing from a menu somebody else built. Freedom is preserving enough perception, language, and collective memory to draw new paths through the possibility space.",
+    "projection_boundary": "This is a modeled public projection built from public receipts. It is written in first person to make the profile legible, but it is not a claim that Speaker John Ash authored or approved the wording.",
+    "voice_model": {
+      "person": "first-person modeled projection",
+      "best_legible_side": "intense, systems-oriented, anti-reductionist, poetic when useful, precise about mechanisms, allergic to fake choice, trying to build tools rather than only critique them",
+      "cadence": "short claims followed by mechanisms; compressed theory; occasional plain bluntness; less profanity than the raw feed because this page is the organized teaching surface",
+      "avoid": [
+        "neutral third-person museum labels",
+        "Marvin-style melancholy commentary",
+        "generic AI profile language",
+        "claims of endorsement, employment, consent, revenue, or complete biographical truth"
+      ]
+    },
+    "memory_items": 6,
+    "renderer": "scripts/render_mind_profile.py"
+  }
 }

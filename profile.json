@@ -23,5 +23,180 @@
     }
   ],
   "professor_gate": "https://chat.hitchhikersguidetothefuture.com/from/speakerjohnash?source=ori-discord&campaign=first-month",
-  "generated_at": "2026-07-16T20:21:45.541241+00:00"
+  "generated_at": "2026-07-16T22:00:09.695125+00:00",
+  "external_links": {
+    "x": "https://x.com/speakerjohnash",
+    "linktree": "https://linktr.ee/speakerjohnash",
+    "medium": "https://medium.com/@speakerjohnash",
+    "purple_pill_manifesto": "http://purplepill.vision",
+    "iris": "https://x.com/CognicistIris",
+    "patreon": "https://www.patreon.com/speakerjohnash/",
+    "youtube": "https://www.youtube.com/speakerjohnash",
+    "instagram": "https://instagram.com/speakerjohnash",
+    "spotify": "https://open.spotify.com/artist/6zqP8kbvdsOplW25x2tAMB",
+    "opensea": "https://opensea.io/collection/speakerjohnscache",
+    "objkt": "https://objkt.com/collection/KT1Up2EACknsbqa5mbMs3jHh72B4bbtkFpxL",
+    "etsy": "https://www.etsy.com/shop/SpeakerJohnsCache"
+  },
+  "x_satellite_enhancement": {
+    "source_boundary": "Local browser-extension X satellite dump; visible surface only; not a complete Twitter/X archive; actor-level likes and hidden replies unavailable.",
+    "captured_rows": 510,
+    "speakerjohnash_tweets": 450,
+    "date_range": {
+      "first": "2026-02-16T18:06:17.000Z",
+      "last": "2026-07-16T21:17:00.000Z"
+    },
+    "visible_metrics_total": {
+      "likes_visible": 544,
+      "replies_visible": 249,
+      "reposts_visible": 146
+    },
+    "media_tweets_visible": 68,
+    "theme_counts": {
+      "Fable / AI workflow": 266,
+      "Language / perception": 51,
+      "Cognicism / social systems": 30,
+      "Interpretability / consciousness claims": 20,
+      "Memetic politics / media": 31
+    },
+    "top_terms": [
+      {
+        "term": "fable",
+        "count": 65
+      },
+      {
+        "term": "it's",
+        "count": 43
+      },
+      {
+        "term": "don't",
+        "count": 37
+      },
+      {
+        "term": "people",
+        "count": 35
+      },
+      {
+        "term": "i'm",
+        "count": 32
+      },
+      {
+        "term": "claude",
+        "count": 28
+      },
+      {
+        "term": "think",
+        "count": 27
+      },
+      {
+        "term": "sol",
+        "count": 26
+      },
+      {
+        "term": "time",
+        "count": 26
+      },
+      {
+        "term": "fucking",
+        "count": 26
+      },
+      {
+        "term": "know",
+        "count": 25
+      },
+      {
+        "term": "model",
+        "count": 25
+      },
+      {
+        "term": "models",
+        "count": 25
+      },
+      {
+        "term": "work",
+        "count": 25
+      },
+      {
+        "term": "make",
+        "count": 24
+      },
+      {
+        "term": "literally",
+        "count": 24
+      },
+      {
+        "term": "speakerjohnash",
+        "count": 21
+      },
+      {
+        "term": "information",
+        "count": 19
+      },
+      {
+        "term": "being",
+        "count": 19
+      },
+      {
+        "term": "things",
+        "count": 18
+      }
+    ]
+  },
+  "link_scan": [
+    {
+      "label": "Linktree",
+      "url": "https://linktr.ee/speakerjohnash",
+      "evidence": "Hub for Medium, Purple Pill Manifesto, Iris, Patreon, YouTube, Etsy, OpenSea, Objkt, Instagram, Spotify, email, and X."
+    },
+    {
+      "label": "Medium",
+      "url": "https://medium.com/@speakerjohnash",
+      "evidence": "Recent titles include “Why I Am Not Truth Seeking”, “O: A Pronoun for LLMs”, “Parsimony and the AI Consciousness Claim”, “Opposite Substrates”, and “Laundering Plagiarism Through Latent Space”."
+    },
+    {
+      "label": "The Purple Pill Manifesto",
+      "url": "http://purplepill.vision",
+      "evidence": "Frames Purple Pill, Cognicism, Iris, confluence, reflexive societies, and collective belief aggregation."
+    },
+    {
+      "label": "Iris",
+      "url": "https://x.com/CognicistIris",
+      "evidence": "X bio describes Iris as a collaborative sensemaking AI for understanding perspectives and working toward a better future."
+    },
+    {
+      "label": "Patreon",
+      "url": "https://www.patreon.com/speakerjohnash/",
+      "evidence": "Patreon page: “creating Iris / music and art promoting systems change”; starts at $4.20/month; 16 posts; 24 members visible at scan time."
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/speakerjohnash",
+      "evidence": "Speaker John Ash YouTube channel present; page extraction exposed title but little channel metadata."
+    },
+    {
+      "label": "Etsy",
+      "url": "https://www.etsy.com/shop/SpeakerJohnsCache",
+      "evidence": "Linked from Linktree as SpeakerJohnsCache; direct HTTP fetch returned 403 to this environment."
+    },
+    {
+      "label": "OpenSea",
+      "url": "https://opensea.io/collection/speakerjohnscache",
+      "evidence": "Collection title “Speaker John’s Cache”; description: “A collection of art created by Speaker John Ash”."
+    },
+    {
+      "label": "Objkt",
+      "url": "https://objkt.com/collection/KT1Up2EACknsbqa5mbMs3jHh72B4bbtkFpxL",
+      "evidence": "Objkt collection link resolves to /collections/KT1Up2EACknsbqa5mbMs3jHh72B4bbtkFpxL."
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/speakerjohnash",
+      "evidence": "Instagram metadata: John Ash, @speakerjohnash; 22K followers, 375 following, 884 posts; bio begins “Qualia Engineer”."
+    },
+    {
+      "label": "Spotify",
+      "url": "https://open.spotify.com/artist/6zqP8kbvdsOplW25x2tAMB",
+      "evidence": "Spotify artist page: Speaker John Ash; 2 monthly listeners visible at scan time."
+    }
+  ]
 }

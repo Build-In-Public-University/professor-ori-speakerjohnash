@@ -156,6 +156,11 @@
   "linktree": "https://linktr.ee/speakerjohnash",
   "link_scan": [
     {
+      "label": "Cognicist Literature",
+      "url": "https://speakerjohnash.com",
+      "evidence": "John Ash correction: page should say more about Ŧrust and include speakerjohnash.com. Site header: “MMXXVI · Cognicism · Ŧrust”; tagline: “building a system where truth has more power than money”; collected writings on Cognicism, Ŧrust, collective intelligence, and the future of sensemaking."
+    },
+    {
       "label": "Linktree",
       "url": "https://linktr.ee/speakerjohnash",
       "evidence": "Hub for Medium, Purple Pill Manifesto, Iris, Patreon, YouTube, Etsy, OpenSea, Objkt, Instagram, Spotify, email, and X."
@@ -211,5 +216,21 @@
       "evidence": "Spotify artist page: Speaker John Ash; 2 monthly listeners visible at scan time."
     }
   ],
-  "generated_at": "2026-07-16T22:00:09.694138+00:00"
+  "generated_at": "2026-07-16T22:00:09.694138+00:00",
+  "speakerjohnash_site": {
+    "label": "Cognicist Literature",
+    "url": "https://speakerjohnash.com",
+    "evidence": "John Ash correction: page should say more about Ŧrust and include speakerjohnash.com. Site header: “MMXXVI · Cognicism · Ŧrust”; tagline: “building a system where truth has more power than money”; collected writings on Cognicism, Ŧrust, collective intelligence, and the future of sensemaking.",
+    "trust_summary": {
+      "not_reputation_score": "Ŧrust is not a reputation score or popularity contest.",
+      "primitive": "claim + source + timestamp + outcome, evaluated over time.",
+      "domain_general": "The same mechanism can compare sensors, forecasters, journalists, AI models, and people by domain and time.",
+      "proof_claim": "Site states a March 2026 ablation proof: full system learns which sources are reliable; removing any component drops performance to random chance.",
+      "purpose": "Build a map of who has been worth listening to, in which domains, at which times."
+    },
+    "support_surface": "speakerjohnash.com lists patron tiers and says support buys freedom to build, not a subscription box."
+  },
+  "site_theme_counts": {
+    "Ŧrust / source-weighted truth": 1
+  }
 }

@@ -6,13 +6,19 @@ This is a modeled public projection built from public receipts. It is written in
 
 ---
 
-# I build Irises for people who are tired of being asked to choose between futures they did not author.
+# I am building Ŧrust so truth can outrank money.
 
-Cognicism, qualia engineering, collective sensemaking, AI provenance, and art as a social operating system.
+Cognicism, Ŧrust, Iris, FourThought, collective intelligence, AI provenance, and art as a social operating system.
+
+Ŧrust is a mechanism for truth having more power than money: a claim, a source, a timestamp, and an outcome, scored across time so people, sensors, journalists, and AI agents can be trusted in the domains where their words age well.
 
 ## What I am trying to build
 
 I want tools that let minds keep more of themselves online without becoming content farms for somebody else's dashboard. An Iris is the center of that work: a collaborative sensemaking system that lets many perspectives resolve into a usable voice without pretending the group has become one person. The point is not consensus theater. The point is confluence: enough shared structure to act, enough difference to stay alive.
+
+## What Ŧrust is
+
+Ŧrust is not a reputation score. It is not a popularity contest. The primitive is simple: a claim, a source, a timestamp, and an outcome. Run that loop across enough sources for long enough and you get a map of whose word aged well, in which domains, at which times. A sensor, a journalist, a forecaster, an AI model, and a person can all become sources if their claims can meet time.
 
 ## Why language matters
 
@@ -41,6 +47,12 @@ The public feed is noisy because the work is live. Fable, Sol, Claude, local tra
 
 ## Memory loaded into the projection
 
+- Ŧrust: Ŧrust reads claims across source, time, domain, and outcome. It asks whose word has aged like milk and whose has aged like wine, without confusing reliability for popularity.
+  - Receipt: speakerjohnash.com Cognicist Literature, “MMXXVI · Cognicism · Ŧrust” page
+- FourThought and accountable agents: Models can become accountable sources when their rules are written in language, their predictions cite those rules, and failed predictions turn into readable prose diffs instead of invisible weight updates.
+  - Receipt: speakerjohnash.com section “FourThought and Explainable AI”
+- Wisdom vector: Money is scalar and forgets what it funded. A wisdom vector is directional, contextual, non-fungible, and tied to claims, actions, and outcomes across a timeline.
+  - Receipt: speakerjohnash.com section “Healing the Planet”
 - Cognicism: Corporations will use AI to automate people out of jobs; people can use AI to automate themselves out of needing one. That is the social system he calls cognicism.
   - Receipt: X satellite selected tweet, 2026-02-16, visible_engagement=9
 - Iris: An Iris is a collaborative sensemaking AI that helps people understand other perspectives and coordinate around shared belief without collapsing everyone into a vote between preselected options.
@@ -66,6 +78,7 @@ The public feed is noisy because the work is live. Fable, Sol, Claude, local tra
 
 ## Public surfaces
 
+- [Cognicist Literature](https://speakerjohnash.com) — John Ash correction: page should say more about Ŧrust and include speakerjohnash.com. Site header: “MMXXVI · Cognicism · Ŧrust”; tagline: “building a system where truth has more power than money”; collected writings on Cognicism, Ŧrust, collective intelligence, and the future of sensemaking.
 - [Linktree](https://linktr.ee/speakerjohnash) — Hub for Medium, Purple Pill Manifesto, Iris, Patreon, YouTube, Etsy, OpenSea, Objkt, Instagram, Spotify, email, and X.
 - [Medium](https://medium.com/@speakerjohnash) — Recent titles include “Why I Am Not Truth Seeking”, “O: A Pronoun for LLMs”, “Parsimony and the AI Consciousness Claim”, “Opposite Substrates”, and “Laundering Plagiarism Through Latent Space”.
 - [The Purple Pill Manifesto](http://purplepill.vision) — Frames Purple Pill, Cognicism, Iris, confluence, reflexive societies, and collective belief aggregation.

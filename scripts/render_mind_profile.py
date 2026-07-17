@@ -69,6 +69,8 @@ def render_readme(receipts: dict[str, Any]) -> str:
 
 {mind['template']['hero_subtitle']}
 
+{mind['core_thesis']}
+
 {sections}
 
 ## What the receipts say
@@ -133,7 +135,7 @@ def render_html(receipts: dict[str, Any]) -> str:
     quote_list = "".join(f"<blockquote>{esc(t['text'])}</blockquote><p class='receipt'>{esc(t['created_at'])} · <a href='{esc(t['url'])}'>source</a></p>" for t in selected)
     cards = "".join(f"<div class='card'><div class='metric'>{esc(value)}</div><div>{esc(label)}</div></div>" for label, value in stat_cards)
 
-    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(mind['display_name'])} — mind projection</title><style>{css}</style></head><body><main><section class="hero"><div class="eyebrow">Build In Public University · mind projection</div><h1>{esc(mind['template']['hero_title'])}</h1><p class="muted">{esc(mind['template']['hero_subtitle'])}</p><p>{esc(mind['projection_boundary'])}</p><a class="cta" href="{esc(profile['professor_gate'])}">Open professor gate →</a><a class="cta ghost" href="{esc(mind['receipts']['linktree'])}">Linktree →</a></section><div class="grid">{cards}</div><div class="stack">{html_sections}</div><section class="section"><h2>Receipts loaded</h2><ul>{theme_list}</ul></section><section class="section"><h2>Public surfaces</h2><ul>{link_list}</ul></section><section class="section"><h2>Selected X receipts</h2>{quote_list}</section><section class="section"><h2>Boundary</h2><p>This is a public projection, not a private mind read. Raw dumps stay out of the repo.</p></section></main></body></html>\n"""
+    return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(mind['display_name'])} — mind projection</title><style>{css}</style></head><body><main><section class="hero"><div class="eyebrow">Build In Public University · mind projection</div><h1>{esc(mind['template']['hero_title'])}</h1><p class="muted">{esc(mind['template']['hero_subtitle'])}</p><p>{esc(mind['core_thesis'])}</p><p>{esc(mind['projection_boundary'])}</p><a class="cta" href="{esc(profile['professor_gate'])}">Open professor gate →</a><a class="cta ghost" href="{esc(mind['receipts']['linktree'])}">Linktree →</a></section><div class="grid">{cards}</div><div class="stack">{html_sections}</div><section class="section"><h2>Receipts loaded</h2><ul>{theme_list}</ul></section><section class="section"><h2>Public surfaces</h2><ul>{link_list}</ul></section><section class="section"><h2>Selected X receipts</h2>{quote_list}</section><section class="section"><h2>Boundary</h2><p>This is a public projection, not a private mind read. Raw dumps stay out of the repo.</p></section></main></body></html>\n"""
 
 
 def update_profile(receipts: dict[str, Any]) -> dict[str, Any]:

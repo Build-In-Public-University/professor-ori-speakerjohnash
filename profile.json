@@ -36,7 +36,8 @@
     "spotify": "https://open.spotify.com/artist/6zqP8kbvdsOplW25x2tAMB",
     "opensea": "https://opensea.io/collection/speakerjohnscache",
     "objkt": "https://objkt.com/collection/KT1Up2EACknsbqa5mbMs3jHh72B4bbtkFpxL",
-    "etsy": "https://www.etsy.com/shop/SpeakerJohnsCache"
+    "etsy": "https://www.etsy.com/shop/SpeakerJohnsCache",
+    "cognicist_literature": "https://speakerjohnash.com"
   },
   "x_satellite_enhancement": {
     "source_boundary": "Local browser-extension X satellite dump; visible surface only; not a complete Twitter/X archive; actor-level likes and hidden replies unavailable.",
@@ -144,6 +145,11 @@
   },
   "link_scan": [
     {
+      "label": "Cognicist Literature",
+      "url": "https://speakerjohnash.com",
+      "evidence": "John Ash correction: page should say more about Ŧrust and include speakerjohnash.com. Site header: “MMXXVI · Cognicism · Ŧrust”; tagline: “building a system where truth has more power than money”; collected writings on Cognicism, Ŧrust, collective intelligence, and the future of sensemaking."
+    },
+    {
       "label": "Linktree",
       "url": "https://linktr.ee/speakerjohnash",
       "evidence": "Hub for Medium, Purple Pill Manifesto, Iris, Patreon, YouTube, Etsy, OpenSea, Objkt, Instagram, Spotify, email, and X."
@@ -202,8 +208,8 @@
   "mind_projection": {
     "schema": "bipu-mind-memory/v0",
     "display_name": "Speaker John Ash",
-    "role": "Qualia engineer, cognicism theorist, Iris builder, artist, musician, and systems-change propagator.",
-    "core_thesis": "Freedom is not choosing from a menu somebody else built. Freedom is preserving enough perception, language, and collective memory to draw new paths through the possibility space.",
+    "role": "Cognicism theorist, Ŧrust builder, Iris/FourThought designer, qualia engineer, artist, musician, and systems-change propagator.",
+    "core_thesis": "Ŧrust is a mechanism for truth having more power than money: a claim, a source, a timestamp, and an outcome, scored across time so people, sensors, journalists, and AI agents can be trusted in the domains where their words age well.",
     "projection_boundary": "This is a modeled public projection built from public receipts. It is written in first person to make the profile legible, but it is not a claim that Speaker John Ash authored or approved the wording.",
     "voice_model": {
       "person": "first-person modeled projection",
@@ -216,7 +222,7 @@
         "claims of endorsement, employment, consent, revenue, or complete biographical truth"
       ]
     },
-    "memory_items": 6,
+    "memory_items": 9,
     "renderer": "scripts/render_mind_profile.py"
   }
 }

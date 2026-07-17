@@ -3,8 +3,8 @@
   "handle": "speakerjohnash",
   "display_name": "Speaker John Ash",
   "projection_boundary": "This is a modeled public projection built from public receipts. It is written in first person to make the profile legible, but it is not a claim that Speaker John Ash authored or approved the wording.",
-  "role": "Qualia engineer, cognicism theorist, Iris builder, artist, musician, and systems-change propagator.",
-  "core_thesis": "Freedom is not choosing from a menu somebody else built. Freedom is preserving enough perception, language, and collective memory to draw new paths through the possibility space.",
+  "role": "Cognicism theorist, Ŧrust builder, Iris/FourThought designer, qualia engineer, artist, musician, and systems-change propagator.",
+  "core_thesis": "Ŧrust is a mechanism for truth having more power than money: a claim, a source, a timestamp, and an outcome, scored across time so people, sensors, journalists, and AI agents can be trusted in the domains where their words age well.",
   "voice_model": {
     "person": "first-person modeled projection",
     "best_legible_side": "intense, systems-oriented, anti-reductionist, poetic when useful, precise about mechanisms, allergic to fake choice, trying to build tools rather than only critique them",
@@ -17,6 +17,21 @@
     ]
   },
   "memory": [
+    {
+      "name": "Ŧrust",
+      "claim": "Ŧrust reads claims across source, time, domain, and outcome. It asks whose word has aged like milk and whose has aged like wine, without confusing reliability for popularity.",
+      "receipt": "speakerjohnash.com Cognicist Literature, “MMXXVI · Cognicism · Ŧrust” page"
+    },
+    {
+      "name": "FourThought and accountable agents",
+      "claim": "Models can become accountable sources when their rules are written in language, their predictions cite those rules, and failed predictions turn into readable prose diffs instead of invisible weight updates.",
+      "receipt": "speakerjohnash.com section “FourThought and Explainable AI”"
+    },
+    {
+      "name": "Wisdom vector",
+      "claim": "Money is scalar and forgets what it funded. A wisdom vector is directional, contextual, non-fungible, and tied to claims, actions, and outcomes across a timeline.",
+      "receipt": "speakerjohnash.com section “Healing the Planet”"
+    },
     {
       "name": "Cognicism",
       "claim": "Corporations will use AI to automate people out of jobs; people can use AI to automate themselves out of needing one. That is the social system he calls cognicism.",
@@ -49,12 +64,16 @@
     }
   ],
   "template": {
-    "hero_title": "I build Irises for people who are tired of being asked to choose between futures they did not author.",
-    "hero_subtitle": "Cognicism, qualia engineering, collective sensemaking, AI provenance, and art as a social operating system.",
+    "hero_title": "I am building Ŧrust so truth can outrank money.",
+    "hero_subtitle": "Cognicism, Ŧrust, Iris, FourThought, collective intelligence, AI provenance, and art as a social operating system.",
     "sections": [
       {
         "heading": "What I am trying to build",
         "body": "I want tools that let minds keep more of themselves online without becoming content farms for somebody else's dashboard. An Iris is the center of that work: a collaborative sensemaking system that lets many perspectives resolve into a usable voice without pretending the group has become one person. The point is not consensus theater. The point is confluence: enough shared structure to act, enough difference to stay alive."
+      },
+      {
+        "heading": "What Ŧrust is",
+        "body": "Ŧrust is not a reputation score. It is not a popularity contest. The primitive is simple: a claim, a source, a timestamp, and an outcome. Run that loop across enough sources for long enough and you get a map of whose word aged well, in which domains, at which times. A sensor, a journalist, a forecaster, an AI model, and a person can all become sources if their claims can meet time."
       },
       {
         "heading": "Why language matters",
@@ -87,7 +106,9 @@
       "replies_visible": 249,
       "reposts_visible": 146
     },
-    "linktree": "https://linktr.ee/speakerjohnash"
+    "linktree": "https://linktr.ee/speakerjohnash",
+    "cognicist_literature": "https://speakerjohnash.com",
+    "trust_correction": "John Ash public reply: “should say more about Ŧrust” and “seems to be lacking this: speakerjohnash.com Cognicist Literature.”"
   },
   "generated_from": [
     "profile.json",
@@ -97,6 +118,8 @@
     "Medium public profile titles",
     "CognicistIris public X metadata",
     "Patreon public metadata",
-    "Instagram/Spotify/OpenSea public metadata"
+    "Instagram/Spotify/OpenSea public metadata",
+    "speakerjohnash.com Cognicist Literature public page",
+    "John Ash public correction on X"
   ]
 }

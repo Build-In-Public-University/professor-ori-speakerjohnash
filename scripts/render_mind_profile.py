@@ -31,6 +31,11 @@ def load_receipts(root: Path) -> dict[str, Any]:
     summary_path = root / "data" / "x-satellite-summary.json"
     if summary_path.exists():
         receipts["x_summary"] = load_json(summary_path)
+    internal_path = root / "data" / "internal-thoughts.private.json"
+    if internal_path.exists():
+        # Local-only steering notes. They can shape the checked-in template data,
+        # but must never be rendered as public evidence or profile metadata.
+        receipts["internal_thoughts"] = load_json(internal_path)
     return receipts
 
 

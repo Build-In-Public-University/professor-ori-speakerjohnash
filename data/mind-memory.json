@@ -107,8 +107,7 @@
       "reposts_visible": 146
     },
     "linktree": "https://linktr.ee/speakerjohnash",
-    "cognicist_literature": "https://speakerjohnash.com",
-    "trust_correction": "John Ash public reply: “should say more about Ŧrust” and “seems to be lacking this: speakerjohnash.com Cognicist Literature.”"
+    "cognicist_literature": "https://speakerjohnash.com"
   },
   "generated_from": [
     "profile.json",
@@ -119,7 +118,6 @@
     "CognicistIris public X metadata",
     "Patreon public metadata",
     "Instagram/Spotify/OpenSea public metadata",
-    "speakerjohnash.com Cognicist Literature public page",
-    "John Ash public correction on X"
+    "speakerjohnash.com Cognicist Literature public page"
   ]
 }

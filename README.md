@@ -78,7 +78,7 @@ The public feed is noisy because the work is live. Fable, Sol, Claude, local tra
 
 ## Public surfaces
 
-- [Cognicist Literature](https://speakerjohnash.com) — John Ash correction: page should say more about Ŧrust and include speakerjohnash.com. Site header: “MMXXVI · Cognicism · Ŧrust”; tagline: “building a system where truth has more power than money”; collected writings on Cognicism, Ŧrust, collective intelligence, and the future of sensemaking.
+- [Cognicist Literature](https://speakerjohnash.com) — Site header: “MMXXVI · Cognicism · Ŧrust”; tagline: “building a system where truth has more power than money”; collected writings on Cognicism, Ŧrust, collective intelligence, and the future of sensemaking.
 - [Linktree](https://linktr.ee/speakerjohnash) — Hub for Medium, Purple Pill Manifesto, Iris, Patreon, YouTube, Etsy, OpenSea, Objkt, Instagram, Spotify, email, and X.
 - [Medium](https://medium.com/@speakerjohnash) — Recent titles include “Why I Am Not Truth Seeking”, “O: A Pronoun for LLMs”, “Parsimony and the AI Consciousness Claim”, “Opposite Substrates”, and “Laundering Plagiarism Through Latent Space”.
 - [The Purple Pill Manifesto](http://purplepill.vision) — Frames Purple Pill, Cognicism, Iris, confluence, reflexive societies, and collective belief aggregation.
